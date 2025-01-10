@@ -31,7 +31,7 @@ To download the theme in [Better Discord](https://betterdiscord.app/theme/Chilla
 
 To download the theme from GitHub:
 
-1. Go to [chillax.theme.css](https://github.com/warrayquipsome/Chillax/blob/main/chillax.theme.css)
+1. Go to [chillax.theme.css](https://github.com/L4ZY12/Chillax/blob/main/chillax.theme.css)
 2. Press the copy raw contents button.
 3. Edit the theme.css in your Discord.
 4. Select everything and paste in the copied code.
@@ -45,7 +45,7 @@ And if you want a YouTube tutorial, go to this link: "https://youtu.be/U0tTENsBS
 
 To install and use the theme on [Vencord](https://vencord.dev/)
 
-1. Go to [chillax.theme.css](https://github.com/warrayquipsome/Chillax/blob/main/chillax.theme.css)
+1. Go to [chillax.theme.css](https://github.com/L4ZY12/Chillax/blob/main/chillax.theme.css)
 2. Press the copy raw contents button.
 3. Go to your Vencord themes tab.
 4. Click the "Open QuickCSS file" button.
